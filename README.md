@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @oner8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 I’m currently working on newapi-checkin and CI/CD automation
+- 🌱 I’m currently learning Docker, Kubernetes, GitHub Actions and GHCR
+- 👯 I’m looking to collaborate on open-source automation tools
+- 💬 Ask me about Docker, GHCR, GitHub Actions, Docker Compose
+- 📫 How to reach me: GitHub Issues
+- ⚡ Fun fact: I love automating repetitive tasks
 
 <!---
 oner8/oner8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
